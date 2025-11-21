@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Mi nombre es Jaime López Gavira y soy de Sevilla.</p>
+<p align="left">Mi nombre es Jaime López Gavira y soy un programador de Sevilla.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Fallando códigos desde 2023<br>📚 Desarrollador Aplicaciones Web<br>🎯 Mis metas son ser Ingeniero de Software<br>🎲 Resilencia</p>
+<p align="left">✨Picando códigos desde 2023<br>📚 Desarrollador Aplicaciones Web<br>🎯 Mis metas son ser Ingeniero de Software<br>🎲 Resilencia</p>
 
 ###
 
