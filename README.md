@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨Picando códigos desde 2023<br>📚 Desarrollador Aplicaciones Web<br>🎯 Mis metas son ser Ingeniero de Software<br>🎲 Resilencia</p>
+<p align="left">✨Picando códigos desde 2023<br>📚Técnico superior en Desarrollo de Aplicaciones Web<br>🎯 🎲 Resilencia</p>
 
 ###
 
